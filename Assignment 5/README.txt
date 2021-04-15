@@ -3,6 +3,7 @@ CCIDs: penukond, jsohal
 Student IDs: 1623713, 1620817
 
 This assignment was done together by the names mentioned above.
+Data can be obtained from here: http://insideairbnb.com/get-the-data.html
 
 Included files:
 
